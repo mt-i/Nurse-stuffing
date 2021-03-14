@@ -1,0 +1,13 @@
+.card-find {
+    background-color: #eb5424;
+    min-height: 180px;
+}
+
+.card-avail {
+    background-color: #1e2020;
+    min-height: 180px;
+}
+
+.card-text {
+    color: #fff;
+}
